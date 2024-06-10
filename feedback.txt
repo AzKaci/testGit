@@ -1,0 +1,3 @@
+Le cours couvre les bases et les fonctionalités avancée du git et git hub 
+en utilisant une bonne méthode pour comprendre l'Architecture et le foncti, incluant les concepts fondamentaux tels que les variables, les structures de github et le fonctionement du git ,
+j'ai appris  beaucoup de choses du coup merci pour votre investissement  et le temps  le temps consacré .
